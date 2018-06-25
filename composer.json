@@ -1,0 +1,21 @@
+{
+    "name": "fizz/captcha_code",
+    "description": "captcha_code",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liyifeng",
+            "email": "384339392@qq.com"
+        }
+    ],
+	"require": {
+        "php": ">=5.3"
+    },
+    "minimum-stability": "dev",
+	"autoload": {
+        "psr-4": {
+            "Captcha\\": "CaptchaCode/"
+        }
+    }
+}
