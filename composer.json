@@ -1,5 +1,5 @@
 {
-    "name": "fizz/picture_verification_code",
+    "name": "fizz/picture_code_captcha",
     "description": "captcha",
     "type": "library",
     "license": "MIT",
