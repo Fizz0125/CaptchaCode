@@ -8,7 +8,7 @@ class Code{
 	//画布宽度
 	private $width=100;
 	//画布高度
-	private $height=30;
+	private $height=40;
 	//背景颜色
 	private $bgColor='#ffffff';
 	//验证码
