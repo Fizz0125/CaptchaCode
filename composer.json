@@ -1,6 +1,6 @@
 {
-    "name": "fizz/captcha_code",
-    "description": "captcha_code",
+    "name": "fizz/captcha_code_api",
+    "description": "captcha_code_api",
     "type": "library",
     "license": "MIT",
     "authors": [
